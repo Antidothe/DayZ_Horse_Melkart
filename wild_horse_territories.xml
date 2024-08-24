@@ -1,0 +1,26 @@
+<!-- ############### HORSE MOD ####Chernarus made by Fenwichs456##### -->
+<!-- modification to add horses to the map, they will appear as any other animal.
+part extracted from vanilla territories, add the parts inside the comments in the 
+same order inside your wild_horse_territories.xml file.
+<!-- ############### HORSE MOD ###################################### -->
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2841534046">
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="11252.36" z="12994.3" r="100"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="11398.96" z="12995.8" r="90"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="11534.66" z="13018.1" r="160"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="9821.01" z="14016.3" r="100"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="11414.66" z="12533.8" r="70"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="10833.66" z="11598" r="70"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="11371.36" z="12804.1" r="80"/>
+    </territory>
+    <territory color="1040187392">
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="7994.75" z="14285.13" r="70"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="7981.13" z="14286.38" r="70"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="8504.75" z="14216.5" r="90"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="8314.38" z="14149.38" r="70"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="7979.38" z="14281" r="80"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="8298.5" z="14148.88" r="80"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="0" dmax="0" x="8211" z="14050" r="80"/>                  
+    </territory>
+</territory-type>
